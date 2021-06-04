@@ -6,12 +6,15 @@
 * Practice refactoring using modern JavaScript syntax
 * Gain experience using Fastify with the GET verb, routes, and query parameters
 
+
 ### Technologies used
-	Fastify package
-	Git software
-	Visual Studio Code
+`Fastify package`
+`Git software`
+`Visual Studio Code`
+
+
 ### What I learned
-	How to work with Javascript modules and the Fastify package to test as a web page.
+How to work with Javascript modules and the Fastify package to test as a web page.
 
 
 Project 3 Function Module
