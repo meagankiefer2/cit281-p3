@@ -1,10 +1,18 @@
 ## CIT 281 Project 3
 
-### Purpose of the Project
+### Purpose of Project 3
+* Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
+* Practice creating and using code modules
+* Practice refactoring using modern JavaScript syntax
+* Gain experience using Fastify with the GET verb, routes, and query parameters
 
 ### Technologies used
-
+	Fastify package
+	Git software
+	Visual Studio Code
 ### What I learned
+	How to work with Javascript modules and the Fastify package to test as a web page.
+
 
 Project 3 Function Module
 
